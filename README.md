@@ -1,8 +1,6 @@
-<h1>Nathan Loiseau CAD Portfolio
-    
-Work in Progress...</h1>
 
-# Read Me Template
+# Nathan Loiseau CAD Portfolio Work in Progress...
+
 ![Nathan pro photo](https://user-images.githubusercontent.com/53415616/67163219-4ef76680-f33a-11e9-815a-ba2faf9bc5e6.jpg)
 
 
